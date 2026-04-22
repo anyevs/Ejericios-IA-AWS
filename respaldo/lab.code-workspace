@@ -1,7 +1,0 @@
-{
-  "folders": [{ "path": "." }],
-  "settings": {
-    "security.workspace.trust.enabled": false,
-    "workbench.startupEditor": "readme"
-  }
-}
